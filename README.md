@@ -5,7 +5,7 @@
 
 - #### 🏼‍♂️👩🏻‍🏫I am Currently Learning Machine Learning and AWS✅
 
-- #### 🙌🏻I am looking to collaborate on some intresting projects🧍🏽
+- #### 🙌🏻I am looking to collaborate on some interesting projects🧍🏽
 
 - #### 🌎All of my projects are available on <a href="https://github.com/Ridhi-ma">github/Ridhi-ma</a>🤔
 
