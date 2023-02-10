@@ -1,7 +1,7 @@
 <h1 align="center">Hello guys, Ridhima this side🙋🏻‍♂️</h1>
 <h2 align="center">Learning is My forte🥇</h2>
 
--🏻‍♂️👩🏻‍💼I am Currently working on The Data Analysis💻
+- #### 🏻‍♂️👩🏻‍💼I am Currently working on The Data Analysis💻
 
 - #### 🏼‍♂️👩🏻‍🏫I am Currently Learning Machine Learning and AWS✅
 
